@@ -32,7 +32,7 @@ This repository contains implementations of various machine learning algorithms 
     - Apply Simple Moving Average, Commulative Moving Average, Weighted Moving Average, and Exponential Moving Average techniques on Air Quality Index
     - Dataset used: [Air Quality Data Set](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
 
-* [**Naive Bayes**](Navive_Bayes)
+* [**Naive Bayes**](Naive_Bayes)
     - Classify the cancer type `Malignant` or `Benign` using Gaussian Naive Bayes algorithm, and achieved 90% accuracy on test set.
     - Dataset used: [Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
